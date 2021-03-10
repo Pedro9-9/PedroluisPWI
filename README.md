@@ -1,4 +1,10 @@
 # PedroluisPWI
-Tarefa de PWI - Meu primeiro código no GIT!
-Pedro luis santos de souza, 17 anos. Nascimento 27 de agosto de 2003.
-Sem experiências , porém possuo facilidade para absorver conteudos .
+Tarefa de PWI
+> Written with [StackEdit](https://stackedit.io/).
+
+ # Pedro luis 
+ 
+
+ - 17 anos ;
+ - Estudante de DS e linguas;
+ - Amante de tecnologia e animes.
