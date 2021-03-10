@@ -1,0 +1,17 @@
+h1 {
+    color: #000000;
+    font-family: courier;
+}
+
+body {
+    background-color: #fbf0f0;
+    font-family: Verdana;
+}
+
+.novaCor {
+    color: #f50808;
+}
+
+p {
+    font-size: 1.2rem;
+}
