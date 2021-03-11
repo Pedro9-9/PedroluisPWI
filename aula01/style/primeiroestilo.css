@@ -1,11 +1,11 @@
 h1 {
-    color: #000000;
+    color: #1eff00;
     font-family: courier;
 }
 
 body {
-    background-color: #fbf0f0;
-    font-family: Verdana;
+    background-color: #000000;
+    Background-image: url(https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png);
 }
 
 .novaCor {
@@ -13,5 +13,6 @@ body {
 }
 
 p {
+    color: #1eff00;
     font-size: 1.2rem;
 }
